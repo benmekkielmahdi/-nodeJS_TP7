@@ -1,0 +1,8 @@
+node_modules
+uploads/*
+!uploads/.gitkeep
+.DS_Store
+*.log
+npm-debug.log*
+.idea
+.vscode
